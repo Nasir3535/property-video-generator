@@ -1,0 +1,9 @@
+{
+  "name": "The Cedar Residence",
+  "location": "New Town, Kolkata",
+  "price": "INR 82 lakh",
+  "property_type": "2 BHK Apartment",
+  "features": ["2 bedrooms", "Modular kitchen", "Balcony", "Covered parking", "24-hour security"],
+  "contact": "Call +91 98765 43210",
+  "images": "assets/sample_property/"
+}
